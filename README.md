@@ -23,4 +23,4 @@
 
 (IX). Calcular taxa de hospitalização por 100 mil habitantes(número de habitantes hospitalizados/ número de habitantes no município, multiplicado por 100.000), taxa de mortalidade por 100 mil habitantes(número de óbitos acumulados dividido/número de habitantes no município, multiplicado por 100.000) e taxa de letalidade(número de óbitos/número de casos de COVID-19 em habitantes, multiplicado por 100);
 
-(X). Ao final, espera-se que o projeto forneça importantes informações referentes aos habitantes hospitalizados por COVID-19 (identificação de características demográficas e clínicas, tempo de hospitalização, taxa de mortalidade por COVID-19 no estado, entre outras).
+(X). Ao final, espera-se que o projeto forneça importantes informações referentes aos habitantes hospitalizados por COVID-19 (identificação de características demográficas e clínicas, tempo de hospitalização, taxa de mortalidade por COVID-19 no município, entre outras).
